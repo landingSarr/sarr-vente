@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35bd45e7-5c4a-49d7-8257-635d74e59838" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/produit-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/produit-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/produit-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/produit-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/produit-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/produit-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/produit-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/produit-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cart/Cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cart/CartColumns.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cart/CartItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cart/CartList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cart/CartTotals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cart/EmptyCart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cart/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/ProductList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,8 +81,16 @@
       <updated>1579523647288</updated>
       <workItem from="1579523649793" duration="18652000" />
       <workItem from="1579694901990" duration="76900000" />
-      <workItem from="1580136319450" duration="34791000" />
+      <workItem from="1580136319450" duration="35292000" />
     </task>
+    <task id="LOCAL-00001" summary="first comit">
+      <created>1580253748253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580253748253</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +110,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="first comit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first comit" />
   </component>
 </project>
