@@ -16,7 +16,7 @@ export default class Product extends Component {
                             <div
                                 className="img-container p-5"
                                 onClick={() =>
-                                    value.handleDetail((id))
+                                    value.handleDetail(id)
                                 }
                             >
                                 <Link to="/details">
@@ -29,7 +29,6 @@ export default class Product extends Component {
                                     onClick={() => {
                                         value.addToCart(id);
                                         value.openModal(id);
-
                                     }}
                                 >
                                     {inCart ? (

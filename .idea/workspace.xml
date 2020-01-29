@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35bd45e7-5c4a-49d7-8257-635d74e59838" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Cart/PayPalButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cart/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cart/Cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cart/CartTotals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cart/CartTotals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ProductList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ProductList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Context.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +69,16 @@
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="npm start" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -68,6 +89,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -81,7 +107,7 @@
       <updated>1579523647288</updated>
       <workItem from="1579523649793" duration="18652000" />
       <workItem from="1579694901990" duration="76900000" />
-      <workItem from="1580136319450" duration="35292000" />
+      <workItem from="1580136319450" duration="46131000" />
     </task>
     <task id="LOCAL-00001" summary="first comit">
       <created>1580253748253</created>
@@ -90,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580253748253</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first comit">
+      <created>1580254282933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580254282933</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +145,35 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first comit" />
     <option name="LAST_COMMIT_MESSAGE" value="first comit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Components/Details.js</url>
+          <line>18</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Context.js</url>
+          <line>9</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Context.js</url>
+          <line>12</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Context.js</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -112,7 +112,7 @@ export const storeProducts = [
         total:0
     },
 ];
-export const detailsProduct = {
+export const detailProduct = {
     id:1,
     title: "Pantalon",
     img: "img/produit-1.png",

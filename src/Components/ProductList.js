@@ -4,7 +4,7 @@ import Title from './Title';
 import { ProductConsumer } from '../Context';
 
 
-class ProductList extends Component {
+export default class ProductList extends Component {
     render() {
         return (
             <React.Fragment>
@@ -28,5 +28,3 @@ class ProductList extends Component {
         );
     }
 }
-
-export default ProductList;
